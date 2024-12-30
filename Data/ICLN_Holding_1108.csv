@@ -1,0 +1,139 @@
+Ticker,Name,Type,Sector,Asset Class,Market Value,Weight (%),Notional Value,Quantity,Price,Location,Exchange,Currency,FX Rate,Accrual Date
+FSLR,FIRST SOLAR INC,EQUITY,Information Technology,Equity,"136,158,059.07",7.62,"136,158,059.07","702,099.00",193.93,United States,NASDAQ,USD,1.00,--
+IBE,IBERDROLA SA,EQUITY,Utilities,Equity,"112,113,309.80",6.27,"112,113,309.80","7,895,621.00",14.20,Spain,Bolsa De Madrid,USD,0.93,--
+SSE,SSE PLC,EQUITY,Utilities,Equity,"110,370,207.38",6.18,"110,370,207.38","4,961,828.00",22.24,United Kingdom,London Stock Exchange,USD,0.77,--
+ENPH,ENPHASE ENERGY INC,EQUITY,Information Technology,Equity,"83,832,724.50",4.69,"83,832,724.50","1,253,105.00",66.90,United States,NASDAQ,USD,1.00,--
+VWS,VESTAS WIND SYSTEMS,EQUITY,Industrials,Equity,"81,866,965.22",4.58,"81,866,965.22","5,434,478.00",15.06,Denmark,Omx Nordic Exchange Copenhagen A/S,USD,6.94,--
+9502,CHUBU ELECTRIC POWER INC,EQUITY,Utilities,Equity,"69,943,093.32",3.91,"69,943,093.32","6,256,500.00",11.18,Japan,Tokyo Stock Exchange,USD,152.43,--
+600900,CHINA YANGTZE POWER LTD A,EQUITY,Utilities,Equity,"69,536,004.94",3.89,"69,536,004.94","18,114,230.00",3.84,China,Shanghai Stock Exchange,USD,7.17,--
+EDP,EDP ENERGIAS DE PORTUGAL SA,EQUITY,Utilities,Equity,"68,985,292.35",3.86,"68,985,292.35","18,798,575.00",3.67,Portugal,Nyse Euronext - Euronext Lisbon,USD,0.93,--
+SUZLON,SUZLON ENERGY LTD,EQUITY,Industrials,Equity,"55,370,518.96",3.10,"55,370,518.96","74,751,308.00",0.74,India,National Stock Exchange Of India,USD,84.38,--
+ORSTED,ORSTED,EQUITY,Utilities,Equity,"54,013,606.88",3.02,"54,013,606.88","989,142.00",54.61,Denmark,Omx Nordic Exchange Copenhagen A/S,USD,6.94,--
+NXT,NEXTRACKER INC CLASS A,EQUITY,Industrials,Equity,"53,276,617.80",2.98,"53,276,617.80","1,327,270.00",40.14,United States,NASDAQ,USD,1.00,--
+EQTL3,EQUATORIAL ENERGIA SA,EQUITY,Utilities,Equity,"51,626,809.93",2.89,"51,626,809.93","9,503,638.00",5.43,Brazil,XBSP,USD,5.78,--
+ORA,ORMAT TECH INC,EQUITY,Utilities,Equity,"41,385,522.33",2.32,"41,385,522.33","497,841.00",83.13,United States,New York Stock Exchange Inc.,USD,1.00,--
+ELET3,CENTRAIS ELETR BRAS-ELETROBRAS,EQUITY,Utilities,Equity,"39,043,506.31",2.18,"39,043,506.31","6,336,244.00",6.16,Brazil,XBSP,USD,5.78,--
+NHPC,NHPC LTD,EQUITY,Utilities,Equity,"28,099,384.02",1.57,"28,099,384.02","28,790,779.00",0.98,India,National Stock Exchange Of India,USD,84.38,--
+BREN,BARITO RENEWABLES ENERGY,EQUITY,Utilities,Equity,"26,281,541.16",1.47,"26,281,541.16","59,902,800.00",0.44,Indonesia,Indonesia Stock Exchange,USD,"15,670.00",--
+NPI,NORTHLAND POWER INC,EQUITY,Utilities,Equity,"26,160,411.77",1.46,"26,160,411.77","1,783,927.00",14.66,Canada,Toronto Stock Exchange,USD,1.39,--
+CMIG4,CIA ENERGETICA DE MINAS GERAIS PRE,EQUITY,Utilities,Equity,"25,776,909.34",1.44,"25,776,909.34","13,205,586.00",1.95,Brazil,XBSP,USD,5.78,--
+NEOEN,NEOEN SA,EQUITY,Utilities,Equity,"22,751,817.90",1.27,"22,751,817.90","536,947.00",42.37,France,Nyse Euronext - Euronext Paris,USD,0.93,--
+BEPC,BROOKFIELD RENEWABLE SUBORDINATE V,EQUITY,Utilities,Equity,"21,596,018.43",1.21,"21,596,018.43","688,689.00",31.36,Canada,Toronto Stock Exchange,USD,1.39,--
+CWEN,CLEARWAY ENERGY INC CLASS C,EQUITY,Utilities,Equity,"21,255,320.45",1.19,"21,255,320.45","764,855.00",27.79,United States,New York Stock Exchange Inc.,USD,1.00,--
+EDPR,EDP RENOVAVEIS SA,EQUITY,Utilities,Equity,"21,096,448.79",1.18,"21,096,448.79","1,812,228.00",11.64,Portugal,Nyse Euronext - Euronext Lisbon,USD,0.93,--
+VER,VERBUND AG,EQUITY,Utilities,Equity,"20,198,438.81",1.13,"20,198,438.81","261,713.00",77.18,Austria,Wiener Boerse Ag,USD,0.93,--
+ENGI11,ENERGISA UNITS SA,EQUITY,Utilities,Equity,"19,297,987.95",1.08,"19,297,987.95","2,705,882.00",7.13,Brazil,XBSP,USD,5.78,--
+300274,SUNGROW POWER SUPPLY LTD A,EQUITY,Industrials,Equity,"18,628,062.34",1.04,"18,628,062.34","1,534,400.00",12.14,China,Shenzhen Stock Exchange,USD,7.17,--
+AGR,AVANGRID INC,EQUITY,Utilities,Equity,"17,297,194.40",0.97,"17,297,194.40","481,816.00",35.90,United States,New York Stock Exchange Inc.,USD,1.00,--
+BKW,BKW N AG,EQUITY,Utilities,Equity,"16,706,656.75",0.93,"16,706,656.75","97,294.00",171.71,Switzerland,SIX Swiss Exchange,USD,0.87,--
+EGIE3,ENGIE BRASIL ENERGIA SA,EQUITY,Utilities,Equity,"16,244,052.85",0.91,"16,244,052.85","2,333,101.00",6.96,Brazil,XBSP,USD,5.78,--
+RUN,SUNRUN INC,EQUITY,Industrials,Equity,"15,842,433.75",0.89,"15,842,433.75","1,548,625.00",10.23,United States,NASDAQ,USD,1.00,--
+PLUG,PLUG POWER INC,EQUITY,Industrials,Equity,"15,632,312.06",0.87,"15,632,312.06","7,588,501.00",2.06,United States,NASDAQ,USD,1.00,--
+601012,LONGI GREEN ENERGY TECHNOLOGY LTD,EQUITY,Information Technology,Equity,"15,283,400.66",0.86,"15,283,400.66","5,718,400.00",2.67,China,Shanghai Stock Exchange,USD,7.17,--
+NDX1,NORDEX,EQUITY,Industrials,Equity,"15,280,971.99",0.86,"15,280,971.99","1,155,787.00",13.22,Germany,Xetra,USD,0.93,--
+600905,CHINA THREE GORGES RENEWABLES(GROU,EQUITY,Utilities,Equity,"14,287,685.64",0.80,"14,287,685.64","21,239,796.00",0.67,China,Shanghai Stock Exchange,USD,7.17,--
+BLX,BORALEX INC CLASS A,EQUITY,Utilities,Equity,"13,664,409.67",0.76,"13,664,409.67","571,647.00",23.90,Canada,Toronto Stock Exchange,USD,1.39,--
+586,CHINA CONCH VENTURE HOLDINGS LTD,EQUITY,Industrials,Equity,"12,277,367.26",0.69,"12,277,367.26","13,202,500.00",0.93,China,Hong Kong Exchanges And Clearing Ltd,USD,7.77,--
+INOXWIND,INOX WIND LTD,EQUITY,Industrials,Equity,"11,898,007.98",0.67,"11,898,007.98","4,796,738.00",2.48,India,National Stock Exchange Of India,USD,84.38,--
+CPLE6,CIA PARANAENSE DE ENERGIA COPEL PR,EQUITY,Utilities,Equity,"11,658,467.99",0.65,"11,658,467.99","7,188,850.00",1.62,Brazil,XBSP,USD,5.78,--
+BRL,BRL CASH,CASH,Cash and/or Derivatives,Cash,"11,563,467.74",0.65,"11,563,467.74","66,881,941.00",17.29,Brazil,--,USD,5.78,--
+ERG,ERG,EQUITY,Utilities,Equity,"10,512,230.70",0.59,"10,512,230.70","484,145.00",21.71,Italy,Borsa Italiana,USD,0.93,--
+9958,CENTURY IRON AND STEEL INDUSTRIAL,EQUITY,Materials,Equity,"10,299,567.15",0.58,"10,299,567.15","1,764,000.00",5.84,Taiwan,Taiwan Stock Exchange,USD,32.11,--
+009830,HANWHA SOLUTIONS CORP,EQUITY,Materials,Equity,"10,186,950.47",0.57,"10,186,950.47","739,928.00",13.77,Korea (South),Korea Exchange (Stock Market),USD,"1,386.60",--
+1735,CENTRAL NEW ENERGY HOLDING GROUP L,EQUITY,Industrials,Equity,"9,818,176.67",0.55,"9,818,176.67","9,518,000.00",1.03,Hong Kong,Hong Kong Exchanges And Clearing Ltd,USD,7.77,--
+ENELCHILE,ENEL CHILE SA,EQUITY,Utilities,Equity,"9,631,677.28",0.54,"9,631,677.28","171,276,963.00",0.06,Chile,Santiago Stock Exchange,USD,968.80,--
+MEL,MERIDIAN ENERGY LTD,EQUITY,Utilities,Equity,"9,551,191.18",0.53,"9,551,191.18","2,716,081.00",3.52,New Zealand,New Zealand Exchange Ltd,USD,1.67,--
+CPFE3,CPFL ENERGIA SA,EQUITY,Utilities,Equity,"9,477,958.83",0.53,"9,477,958.83","1,693,530.00",5.60,Brazil,XBSP,USD,5.78,--
+ENLT,ENLIGHT RENEWABLE ENERGY LTD,EQUITY,Utilities,Equity,"9,377,494.19",0.52,"9,377,494.19","619,868.00",15.13,Israel,Tel Aviv Stock Exchange,USD,3.75,--
+ECV,ENCAVIS AG,EQUITY,Utilities,Equity,"9,342,490.94",0.52,"9,342,490.94","509,168.00",18.35,Germany,Xetra,USD,0.93,--
+688223,JINKO SOLAR LTD A,EQUITY,Information Technology,Equity,"9,113,950.44",0.51,"9,113,950.44","7,335,048.00",1.24,China,Shanghai Stock Exchange,USD,7.17,--
+600025,HUANENG LANCANG RIVER HYDROPOWER I,EQUITY,Utilities,Equity,"8,997,154.29",0.50,"8,997,154.29","6,612,357.00",1.36,China,Shanghai Stock Exchange,USD,7.17,--
+SHLS,SHOALS TECHNOLOGIES GROUP INC CLAS,EQUITY,Industrials,Equity,"8,914,823.15",0.50,"8,914,823.15","1,561,265.00",5.71,United States,NASDAQ,USD,1.00,--
+SJVN,SJVN LTD,EQUITY,Utilities,Equity,"8,667,797.76",0.49,"8,667,797.76","6,561,603.00",1.32,India,National Stock Exchange Of India,USD,84.38,--
+600674,SICHUAN CHUANTOU ENERGY LTD A,EQUITY,Utilities,Equity,"8,645,829.00",0.48,"8,645,829.00","3,618,800.00",2.39,China,Shanghai Stock Exchange,USD,7.17,--
+INE,INNERGEX RENEWABLE ENERGY INC,EQUITY,Utilities,Equity,"8,211,322.96",0.46,"8,211,322.96","1,259,568.00",6.52,Canada,Toronto Stock Exchange,USD,1.39,--
+ARRY,ARRAY TECHNOLOGIES INC,EQUITY,Industrials,Equity,"7,996,947.92",0.45,"7,996,947.92","1,323,998.00",6.04,United States,NASDAQ,USD,1.00,--
+ENELAM,ENEL AMERICAS SA,EQUITY,Utilities,Equity,"7,859,846.40",0.44,"7,859,846.40","85,070,039.00",0.09,Chile,Santiago Stock Exchange,USD,968.80,--
+SLR,SOLARIA ENERGIA Y MEDIO AMBIENTE S,EQUITY,Utilities,Equity,"7,855,295.57",0.44,"7,855,295.57","753,395.00",10.43,Spain,Bolsa De Madrid,USD,0.93,--
+112610,CS WIND CORP,EQUITY,Industrials,Equity,"7,518,604.32",0.42,"7,518,604.32","223,001.00",33.72,Korea (South),Korea Exchange (Stock Market),USD,"1,386.60",--
+CEN,CONTACT ENERGY LTD,EQUITY,Utilities,Equity,"7,458,907.98",0.42,"7,458,907.98","1,458,719.00",5.11,New Zealand,New Zealand Exchange Ltd,USD,1.67,--
+SEDG,SOLAREDGE TECHNOLOGIES INC,EQUITY,Information Technology,Equity,"7,191,763.26",0.40,"7,191,763.26","531,542.00",13.53,United States,NASDAQ,USD,1.00,--
+REX,REX AMERICAN RESOURCES CORP,EQUITY,Energy,Equity,"6,928,661.50",0.39,"6,928,661.50","142,859.00",48.50,United States,New York Stock Exchange Inc.,USD,1.00,--
+ANE,CORPORACION ACCIONA ENERGIAS RENOV,EQUITY,Utilities,Equity,"6,618,122.84",0.37,"6,618,122.84","331,376.00",19.97,Spain,Bolsa De Madrid,USD,0.93,--
+2208,XINJIANG GOLDWIND SCIENCE AND TECH,EQUITY,Industrials,Equity,"6,220,724.91",0.35,"6,220,724.91","7,175,800.00",0.87,China,Hong Kong Exchanges And Clearing Ltd,USD,7.77,--
+002459,JA SOLAR TECHNOLOGY LTD A,EQUITY,Information Technology,Equity,"6,197,575.25",0.35,"6,197,575.25","2,456,852.00",2.52,China,Shenzhen Stock Exchange,USD,7.17,--
+NEOE3,NEOENERGIA SA,EQUITY,Utilities,Equity,"6,064,390.47",0.34,"6,064,390.47","1,801,532.00",3.37,Brazil,XBSP,USD,5.78,--
+1798,CHINA DATANG CORPORATION RENEWABLE,EQUITY,Utilities,Equity,"5,911,826.67",0.33,"5,911,826.67","21,579,000.00",0.27,China,Hong Kong Exchanges And Clearing Ltd,USD,7.77,--
+688599,TRINA SOLAR LTD A,EQUITY,Information Technology,Equity,"5,840,825.78",0.33,"5,840,825.78","1,612,626.00",3.62,China,Shanghai Stock Exchange,USD,7.17,--
+CSIQ,CANADIAN SOLAR INC,EQUITY,Information Technology,Equity,"5,273,385.70",0.30,"5,273,385.70","435,817.00",12.10,China,NASDAQ,USD,1.00,--
+NEL,NEL,EQUITY,Industrials,Equity,"5,243,284.15",0.29,"5,243,284.15","15,473,880.00",0.34,Norway,Oslo Bors Asa,USD,11.00,--
+002129,TCL ZHONGHUAN RENEWABLE ENERGY TEC,EQUITY,Information Technology,Equity,"4,823,828.32",0.27,"4,823,828.32","2,999,800.00",1.61,China,Shenzhen Stock Exchange,USD,7.17,--
+336260,DOOSAN FUEL CELL LTD,EQUITY,Industrials,Equity,"4,733,611.54",0.26,"4,733,611.54","389,764.00",12.14,Korea (South),Korea Exchange (Stock Market),USD,"1,386.60",--
+AURE3,AUREN ENERGIA SA,EQUITY,Utilities,Equity,"4,730,030.27",0.26,"4,730,030.27","2,690,071.00",1.76,Brazil,XBSP,USD,5.78,--
+PTC,PTC INDIA LTD,EQUITY,Utilities,Equity,"4,639,619.90",0.26,"4,639,619.90","2,168,349.00",2.14,India,National Stock Exchange Of India,USD,84.38,--
+300751,SUZHOU MAXWELL TECHNOLOGIES LTD A,EQUITY,Information Technology,Equity,"3,532,584.90",0.20,"3,532,584.90","212,500.00",16.62,China,Shenzhen Stock Exchange,USD,7.17,--
+RNW,RENEW ENERGY GLOBAL PLC CLASS A,EQUITY,Utilities,Equity,"3,413,341.00",0.19,"3,413,341.00","634,450.00",5.38,United Kingdom,NASDAQ,USD,1.00,--
+601615,MING YANG SMART ENERGY GROUP LTD A,EQUITY,Industrials,Equity,"3,136,453.53",0.18,"3,136,453.53","1,684,100.00",1.86,China,Shanghai Stock Exchange,USD,7.17,--
+6443,TSEC CORP,EQUITY,Information Technology,Equity,"3,079,399.76",0.17,"3,079,399.76","4,777,235.00",0.64,Taiwan,Taiwan Stock Exchange,USD,32.11,--
+300763,GINLONG TECHNOLOGIES LTD A,EQUITY,Industrials,Equity,"2,903,705.05",0.16,"2,903,705.05","296,850.00",9.78,China,Shenzhen Stock Exchange,USD,7.17,--
+600732,SHANGHAI AIKO SOLAR ENERGY LTD A,EQUITY,Information Technology,Equity,"2,665,683.07",0.15,"2,665,683.07","1,359,300.00",1.96,China,Shanghai Stock Exchange,USD,7.17,--
+S92,SMA SOLAR TECHNOLOGY AG,EQUITY,Information Technology,Equity,"2,552,792.89",0.14,"2,552,792.89","167,957.00",15.20,Germany,Xetra,USD,0.93,--
+INR,INR CASH,CASH,Cash and/or Derivatives,Cash,"2,399,431.31",0.13,"2,399,431.31","202,455,016.00",1.19,India,--,USD,84.38,--
+9519,RENOVA INC,EQUITY,Utilities,Equity,"2,326,996.23",0.13,"2,326,996.23","404,900.00",5.75,Japan,Tokyo Stock Exchange,USD,152.43,--
+601016,CECEP WIND-POWER CORP A,EQUITY,Utilities,Equity,"2,265,097.92",0.13,"2,265,097.92","4,807,520.00",0.47,China,Shanghai Stock Exchange,USD,7.17,--
+ZOREN.E,ZORLU ENERJI ELEKTRIK URETIMI A,EQUITY,Utilities,Equity,"2,210,725.05",0.12,"2,210,725.05","17,923,688.00",0.12,Turkey,Istanbul Stock Exchange,USD,34.38,--
+000591,CECEP SOLAR ENERGY LTD A,EQUITY,Utilities,Equity,"2,144,428.04",0.12,"2,144,428.04","2,905,700.00",0.74,China,Shenzhen Stock Exchange,USD,7.17,--
+002506,GCL SYSTEM INTEGRATION TECHNOLOGY,EQUITY,Information Technology,Equity,"1,877,268.54",0.11,"1,877,268.54","4,343,100.00",0.43,China,Shenzhen Stock Exchange,USD,7.17,--
+688032,HOYMILES POWER ELECTRONICS INC A,EQUITY,Industrials,Equity,"1,863,716.55",0.10,"1,863,716.55","95,940.00",19.43,China,Shanghai Stock Exchange,USD,7.17,--
+688349,SANY HEAVY ENERGY LTD A,EQUITY,Industrials,Equity,"1,850,674.81",0.10,"1,850,674.81","448,491.00",4.13,China,Shanghai Stock Exchange,USD,7.17,--
+002531,TITAN WIND ENERGY (SUZHOU) LTD A,EQUITY,Industrials,Equity,"1,759,354.56",0.10,"1,759,354.56","1,335,300.00",1.32,China,Shenzhen Stock Exchange,USD,7.17,--
+688516,WUXI AUTOWELL TECHNOLOGY LTD A,EQUITY,Information Technology,Equity,"1,719,983.56",0.10,"1,719,983.56","235,946.00",7.29,China,Shanghai Stock Exchange,USD,7.17,--
+SMRTG.E,SMART GUNES ENERJISI TEKNOLOJILERI,EQUITY,Information Technology,Equity,"1,696,096.15",0.09,"1,696,096.15","1,477,583.00",1.15,Turkey,Istanbul Stock Exchange,USD,34.38,--
+AMPS,ALTUS POWER INC CLASS A,EQUITY,Utilities,Equity,"1,661,660.56",0.09,"1,661,660.56","534,296.00",3.11,United States,New York Stock Exchange Inc.,USD,1.00,--
+300118,RISEN ENERGY LTD A,EQUITY,Information Technology,Equity,"1,633,021.31",0.09,"1,633,021.31","845,300.00",1.93,China,Shenzhen Stock Exchange,USD,7.17,--
+DKK,DKK CASH,CASH,Cash and/or Derivatives,Cash,"1,583,826.75",0.09,"1,583,826.75","10,986,848.00",14.42,Denmark,--,USD,6.94,--
+600032,ZHEJIANG PROVINCIAL NEW ENERGY INV,EQUITY,Utilities,Equity,"1,562,845.29",0.09,"1,562,845.29","1,363,000.00",1.15,China,Shanghai Stock Exchange,USD,7.17,--
+AKFYE.E,AKFEN YENILENEBILIR ENERJI A.S.,EQUITY,Utilities,Equity,"1,559,814.97",0.09,"1,559,814.97","3,110,243.00",0.50,Turkey,Istanbul Stock Exchange,USD,34.38,--
+000537,CHINA GREEN ELECTRICITY INVESTMENT,EQUITY,Real Estate,Equity,"1,542,755.23",0.09,"1,542,755.23","1,106,700.00",1.39,China,Shenzhen Stock Exchange,USD,7.17,--
+002487,DAJIN HEAVY INDUSTRY LTD A,EQUITY,Industrials,Equity,"1,537,537.06",0.09,"1,537,537.06","475,200.00",3.24,China,Shenzhen Stock Exchange,USD,7.17,--
+600116,CHONGQING THREE GORGES WATER CONSE,EQUITY,Utilities,Equity,"1,460,671.29",0.08,"1,460,671.29","1,418,300.00",1.03,China,Shanghai Stock Exchange,USD,7.17,--
+CWENE.E,CW ENERJI MUHENDISLIK TICARET VE S,EQUITY,Industrials,Equity,"1,364,805.27",0.08,"1,364,805.27","264,023.00",5.17,Turkey,Istanbul Stock Exchange,USD,34.38,--
+688390,JIANGSU GOODWE POWER SUPPLY TECHNO,EQUITY,Industrials,Equity,"1,304,082.46",0.07,"1,304,082.46","175,251.00",7.44,China,Shanghai Stock Exchange,USD,7.17,--
+600821,NYOCOR LTD A,EQUITY,Utilities,Equity,"1,216,702.45",0.07,"1,216,702.45","1,471,300.00",0.83,China,Shanghai Stock Exchange,USD,7.17,--
+JPY,JPY CASH,CASH,Cash and/or Derivatives,Cash,"1,181,828.15",0.07,"1,181,828.15","180,140,156.00",0.66,Japan,--,USD,152.43,--
+GWIND.E,GALATA WIND ENERJI,EQUITY,Utilities,Equity,"1,049,158.07",0.06,"1,049,158.07","1,502,755.00",0.70,Turkey,Istanbul Stock Exchange,USD,34.38,--
+EUR,EUR CASH,CASH,Cash and/or Derivatives,Cash,"767,369.64",0.04,"767,369.64","713,899.00",107.49,European Union,--,USD,0.93,--
+KRW,KRW CASH,CASH,Cash and/or Derivatives,Cash,"533,869.27",0.03,"533,869.27","740,263,124.00",0.07,Korea (South),--,USD,"1,386.60",--
+HBCFT,CASH COLLATERAL USD HBCFT,COLLATERAL,Cash and/or Derivatives,Cash Collateral and Margins,"481,000.00",0.03,"481,000.00","481,000.00",100.00,United Kingdom,--,USD,1.00,"May 28, 2019"
+CHF,CHF CASH,CASH,Cash and/or Derivatives,Cash,"456,940.38",0.03,"456,940.38","399,160.00",114.48,Switzerland,--,USD,0.87,--
+HKD,HKD CASH,CASH,Cash and/or Derivatives,Cash,"354,147.60",0.02,"354,147.60","2,753,427.00",12.86,Hong Kong,--,USD,7.77,--
+TWD,TWD CASH,CASH,Cash and/or Derivatives,Cash,"344,530.56",0.02,"344,530.56","11,063,910.00",3.11,Taiwan,--,USD,32.11,--
+HBCFT,CASH COLLATERAL EUR HBCFT,COLLATERAL,Cash and/or Derivatives,Cash Collateral and Margins,"296,672.40",0.02,"296,672.40","276,000.00",107.49,European Union,--,USD,0.93,"Feb 19, 2019"
+CAD,CAD CASH,CASH,Cash and/or Derivatives,Cash,"159,971.91",0.01,"159,971.91","222,321.00",71.96,Canada,--,USD,1.39,--
+CNH,CNH CASH,CASH,Cash and/or Derivatives,Cash,"58,822.08",0.00,"58,822.08","423,228.00",13.90,China,--,USD,7.20,"Dec 31, 1989"
+NOK,NOK CASH,CASH,Cash and/or Derivatives,Cash,"52,726.87",0.00,"52,726.87","579,790.00",9.09,Norway,--,USD,11.00,--
+SEK,SEK CASH,CASH,Cash and/or Derivatives,Cash,"50,104.78",0.00,"50,104.78","541,961.00",9.25,Sweden,--,USD,10.82,--
+NZD,NZD CASH,CASH,Cash and/or Derivatives,Cash,"49,648.87",0.00,"49,648.87","83,018.00",59.81,New Zealand,--,USD,1.67,--
+TRY,TRY CASH,CASH,Cash and/or Derivatives,Cash,"49,535.93",0.00,"49,535.93","1,702,859.00",2.91,Turkey,--,USD,34.38,--
+ILS,ILS CASH,CASH,Cash and/or Derivatives,Cash,"49,305.67",0.00,"49,305.67","184,894.00",26.67,Israel,--,USD,3.75,--
+GBP,GBP CASH,CASH,Cash and/or Derivatives,Cash,"46,463.90",0.00,"46,463.90","35,907.00",129.40,United Kingdom,--,USD,0.77,--
+BRL,BRL/USD,SPOT,Cash and/or Derivatives,FX,"28,947.52",0.00,"28,947.52","-9,055,387.00",1.00,United States,--,USD,5.78,--
+BRL,BRL/USD,SPOT,Cash and/or Derivatives,FX,"19,298.34",0.00,"19,298.34","-6,036,925.00",1.00,United States,--,USD,5.78,--
+INR,INR/USD,SPOT,Cash and/or Derivatives,FX,"1,083.53",0.00,"1,083.53","-81,322,979.00",1.00,United States,--,USD,84.38,--
+INR,INR/USD,SPOT,Cash and/or Derivatives,FX,893.63,0.00,893.63,"-67,070,779.00",1.00,United States,--,USD,84.38,--
+INR,INR/USD,SPOT,Cash and/or Derivatives,FX,720.30,0.00,720.30,"-54,061,258.00",1.00,United States,--,USD,84.38,--
+CNY,CNY CASH,CASH,Cash and/or Derivatives,Cash,0.00,0.00,0.00,0.00,13.96,China,--,USD,7.17,--
+CLP,CLP CASH,CASH,Cash and/or Derivatives,Cash,-0.05,0.00,-0.05,-45.00,0.10,Chile,--,USD,968.80,--
+IDR,IDR CASH,CASH,Cash and/or Derivatives,Cash,0.00,0.00,0.00,0.00,0.01,Indonesia,--,USD,"15,670.00",--
+002610,ZHEJIANG AKCOME NEW ENERGY TECHNOL,EQUITY,Information Technology,Equity,5.70,0.00,5.70,"4,087,000.00",0.00,China,Shenzhen Stock Exchange,USD,7.17,--
+VGZ4,EURO STOXX 50 DEC 24,INDEX,Cash and/or Derivatives,Futures,0.00,0.00,"4,188,788.56",81.00,"5,171.34",European Union,Eurex Deutschland,USD,0.93,--
+MESZ4,MSCI EMER MKT INDEX (ICE) DEC 24,INDEX,Cash and/or Derivatives,Futures,0.00,0.00,"4,630,540.00",82.00,"1,129.40",--,Ice Futures U.S.,USD,1.00,--
+ESZ4,S&P500 EMINI DEC 24,INDEX,Cash and/or Derivatives,Futures,0.00,0.00,"6,627,775.00",22.00,"6,025.25",--,Index And Options Market,USD,1.00,--
+TWD,TWD/USD,SPOT,Cash and/or Derivatives,FX,-387.80,0.00,-387.80,"-2,209,821.00",1.00,United States,--,USD,32.11,--
+TWD,TWD/USD,SPOT,Cash and/or Derivatives,FX,-581.71,0.00,-581.71,"-3,314,731.00",1.00,United States,--,USD,32.11,--
+TWD,TWD/USD,SPOT,Cash and/or Derivatives,FX,-488.43,0.00,-488.43,"-2,783,193.00",1.00,United States,--,USD,32.11,--
+KRW,KRW/USD,SPOT,Cash and/or Derivatives,FX,-985.02,0.00,-985.02,"-188,505,926.00",1.00,United States,--,USD,"1,386.60",--
+KRW,KRW/USD,SPOT,Cash and/or Derivatives,FX,"-1,477.53",0.00,"-1,477.53","-282,758,888.00",1.00,United States,--,USD,"1,386.60",--
+KRW,KRW/USD,SPOT,Cash and/or Derivatives,FX,"-1,342.96",0.00,"-1,342.96","-257,006,663.00",1.00,United States,--,USD,"1,386.60",--
+MARGIN_USD,FUTURES USD MARGIN BALANCE,CASH,Cash and/or Derivatives,Cash Collateral and Margins,"-98,940.00",-0.01,"-98,940.00","-98,940.00",100.00,United States,--,USD,1.00,"Jan 01, 2000"
+USD,USD CASH,CASH,Cash and/or Derivatives,Cash,"-4,827,522.12",-0.27,"-4,827,522.12","-4,827,522.00",100.00,United States,--,USD,1.00,--
